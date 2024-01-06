@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.imp {
+    font-size: medium;
+    color: whitesmoke;
+    font-size: medium;
+}
+
+.imp a:hover {
+    font-size: medium;
+    color: aliceblue;
+}
+
+.imp a {
+    font-size: medium;
+    color: white;
+}
+
+a {
+    font-size: x-large;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+h2 {
+    color: whitesmoke;
+}
